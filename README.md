@@ -4,10 +4,10 @@
 More information in 一二三木头人/README.pdf
 <hr>
 ###T9-Keyboard
-More information in T9-Keyboard/README.pdf
+You can open the T9Keyboard/Debug/T9Keyboard.exe to see it.
 <hr>
 ###CLOCK
-More information in CLOCK/README.pdf
+You can open the CLOCK/Debug/watch5083.exe to see it.
 <hr>
 ###Think you for your reading!  
 <hr>
